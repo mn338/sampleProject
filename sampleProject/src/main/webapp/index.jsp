@@ -20,6 +20,7 @@
 			Select Operator<BR>
 			<input type=Radio name=operator value=add Checked>Add <BR>
 			<input type=Radio name=operator value=sub>Subtract <BR>
+			<input type=Radio name=operator value=sub>Multiply <BR><BR>
 				
 			<input type=Submit value="Submit">
 					
